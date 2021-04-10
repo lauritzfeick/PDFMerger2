@@ -7,7 +7,7 @@ I crated this project in my undergraduate studies for several reasons:
 
 ### Usage
 1) install Java
-2) run the merger2.jar!
+2) download and run the release of the merger2.jar
  
 Append PDFs and Images   |  Merge PDF files (Usecase 2)
 :-------------------------:|:-------------------------:
